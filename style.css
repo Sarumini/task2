@@ -18,18 +18,20 @@
     transform:translate(-50%,-50%);
 }
 #leftbox{
-
+     font-size:small;
      float: left;
      width: 25%;
      height: 280px;
 }
 #middlebox{
+    font-size:small;
     margin-left: 35px;
     float: left;
     width: 30%;
     height: 280px;
 }
 #rightbox{
+    font-size:small;
     float: right;
     width: 25%;
     height: 280px;
