@@ -43,21 +43,28 @@
     height: auto;
 }
 .topnav a {
+ font-size:small;
   float: left;
   color: #2aa389;
   text-align: center;
-  padding: 14px 16px;
+  padding: 4px 4px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 10px;
 }
 .topnav a:hover {
+ font-size:small;
+
   background-color:#2aa389;
   color:#2aa389;
 }
 .topnav a.active {
+ font-size:small;
+
   background-color: #2aa389;
   color: white;
 }
 .topnav-right {
+ font-size:small;
+
   float: right;
 }
